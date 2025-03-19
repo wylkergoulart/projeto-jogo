@@ -1,0 +1,218 @@
+# Criado por https://www.toptal.com/developers/gitignore/api/python
+# Edite em https://www.toptal.com/developers/gitignore?templates=python
+
+### Python ###
+# Arquivos DLL compilados/otimizados em bytes
+__pycache__/
+*.py[bacalhau]
+*$py.class
+
+# Extensões C
+*.então
+
+# Distribuição / embalagem
+.Píton
+construir/
+desenvolver-ovos/
+distância/
+baixar/
+ovos/
+.ovos/
+biblioteca/
+lib64/
+partes/
+sdist/
+var/
+rodas/
+compartilhar/rodas-python/
+*.informações-do-ovo/
+.instalado.cfg
+*.ovo
+MANIFESTO
+
+# Instalador Py
+# Normalmente esses arquivos são escritos por um script python a partir de um modelo
+# antes que o PyInstaller crie o exe, para injetar data/outras informações nele.
+*.manifesto
+*.especificação
+
+# Logs do instalador
+pip-log.txt
+pip-delete-este-diretório.txt
+
+# Teste de unidade / relatórios de cobertura
+htmlcov/
+.tox/
+.nox/
+.cobertura
+.cobertura.*
+.cache
+testes de nariz.xml
+cobertura.xml
+*.cobrir
+*.py,capa
+.hipótese/
+.pytest_cache/
+cobrir/
+
+# Traduções
+*.mo
+*.pote
+
+# Coisas do Django:
+*.registro
+configurações_locais.py
+banco de dados.sqlite3
+db.sqlite3-diário
+
+# Coisas de frasco:
+exemplo/
+.webassets-cache
+
+# Coisas estranhas:
+.rascunho
+
+# Documentação do Sphinx
+docs/_construção/
+
+# Construtor Py
+.pybuilder/
+alvo/
+
+# Caderno Jupyter
+.pontos de verificação do ipynb
+
+#IPython
+perfil_padrão/
+ipython_config.py
+
+# pyenv
+# Para uma biblioteca ou pacote, você pode querer ignorar esses arquivos, pois o código é
+# destinado a ser executado em vários ambientes; caso contrário, faça o check-in:
+# .versão-python
+
+# pipenv
+# De acordo com pypa/pipenv#598, é recomendado incluir Pipfile.lock no controle de versão.
+# No entanto, em caso de colaboração, se houver dependências específicas da plataforma ou dependências
+# não tendo suporte multiplataforma, o pipenv pode instalar dependências que não funcionam, ou não
+# instale todas as dependências necessárias.
+#ArquivoPip.bloqueio
+
+# poesia
+# Semelhante ao Pipfile.lock, geralmente é recomendado incluir poetry.lock no controle de versão.
+# Isto é especialmente recomendado para pacotes binários para garantir a reprodutibilidade e é mais
+# comumente ignorado para bibliotecas.
+# https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
+#poesia.lock
+
+# pdm
+# Semelhante ao Pipfile.lock, geralmente é recomendado incluir pdm.lock no controle de versão.
+#pdm.bloqueio
+# pdm armazena configurações de todo o projeto em .pdm.toml, mas é recomendado não incluí-lo
+# no controle de versão.
+# https://pdm.fming.dev/#use-with-ide
+.pdm.toml
+
+# PEP 582; usado por exemplo github.com/David-OConnor/pyflow e github.com/pdm-project/pdm
+__pacotes py__/
+
+# Coisas de aipo
+celerybeat-programação
+celerybeat.pid
+
+# Arquivos analisados ​​pelo SageMath
+*.sage.py
+
+# Ambientes
+venv
+.env
+.venv
+ambiente/
+venv/
+Ambiente/
+env.bak/
+venv.bak/
+
+# Configurações do projeto Spyder
+.projeto espião
+.projeto espião
+
+# Configurações do projeto de corda
+.projeto de corda
+
+# documentação do mkdocs
+/site
+
+# meupy
+.meu_cache/
+.dmypy.json
+dmypy.json
+
+# Verificador de tipo de pira
+.pira/
+
+# analisador de tipo estático pytype
+.tipo py/
+
+# Símbolos de depuração do Cython
+depuração_cython/
+
+#PyCharm
+# O modelo específico do JetBrains é mantido em um JetBrains.gitignore separado que pode
+# pode ser encontrado em https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
+# e pode ser adicionado ao gitignore global ou mesclado neste arquivo. Para um mais nuclear
+# opção (não recomendada) você pode descomentar o seguinte para ignorar toda a pasta de ideias.
+#.ideia/
+
+### Patch do Python ###
+# Arquivo de configuração local do Poetry - https://python-poetry.org/docs/configuration/#local-configuration
+poesia.toml
+
+# ruff
+.ruff_cache/
+
+# Arquivos de configuração LSP
+pyrightconfig.json
+
+# Fim de https://www.toptal.com/developers/gitignore/api/python
+Bate-papo
+
+Nova conversa
+
+🤓 Explique uma coisa complexa
+
+Explique Inteligência Artificial de maneira que eu possa explicar para o meu filho de seis anos.
+
+
+🧠 Obtenha sugestões e crie novas ideias
+
+Por favor, me dê as 10 melhores ideias de viagens pelo mundo
+
+
+💭 Traduzir, resumir, corrigir gramática e mais…
+
+Eu te amo
+
+
+GPT-4o Mini
+Olá, como posso ajudá-lo hoje?
+GPT-4o Mini
+imagem de moeda
+10
+Atualizar
+
+
+
+Pergunte-me qualquer coisa...
+
+
+
+Alimentado por AITOPIA
+Bate-papo
+Perguntar
+Pesquisar
+Escrever
+Imagem
+Bate-papoPDF
+Visão
+Página Inteira
